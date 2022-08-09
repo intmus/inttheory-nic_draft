@@ -5,18 +5,18 @@
 # by evanwill
 
 # site info
-title: "Integrated Music Theory"
+title: "Integrated Music Theory - NIC Draft!"
 tagline: "2022-23"
 description: "an open, interactive, online textbook for college music theory"
 keywords: "music theory, OER, university of idaho, inquiry-based"
 owner: Sean Butterfield
 email: sbutterfield@uidaho.edu
 published: 2022
-github-repo: https://github.com/intmus/inttheory22-23
+github-repo: https://github.com/intmus/inttheory-nic_draft
 
 # urls
 url: https://intmus.github.io
-baseurl: /inttheory22-23
+baseurl: /inttheory-nic_draft
 
 # collections
 # each unit of the book is a collection
